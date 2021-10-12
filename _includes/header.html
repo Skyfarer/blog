@@ -1,0 +1,14 @@
+<header>
+  <div>
+    <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+    {% assign owner_first_name = site.owner | split: " " %}
+    <h1>{{ site.title }}</h1>
+    </a>
+    <div class="header-links">
+    <h3>
+       skyfarer.cloud | supahiro.com | jeremywalworth.com
+    </h3>
+      {% include links.html %}
+    </div>
+  </div>
+</header>
