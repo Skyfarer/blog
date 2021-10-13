@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - gem install jekyll-seo-tag
+        - gem install jekyll-paginate
+        - gem install jekyll-sitemap
+    build:
+      commands:
+        - jekyll b
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
