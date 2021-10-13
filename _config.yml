@@ -30,3 +30,4 @@ plugins:
 # Custom variables
 owner : "Jeremy Walworth"
 year : "2021"
+google_analytics: "UA-26942824-1"
