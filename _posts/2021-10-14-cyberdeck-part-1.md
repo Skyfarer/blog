@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Cyberdeck Part 1
+date: 2021-10-14 14:23 -0500
 ---
-
 Recently I was poking around on the internet looking for cool Raspberry Pi
 cases to 3D print. I have a few Raspberry Pi's around that do various tasks,
 and I was thinking it would be cool to print up a stylish case. Well, this is
 how I stumbled on the idea of building a cyberdeck.
 
-I learned that the term "cyberdeck" comes from a cyberpunk book published in the 80's
+I learned that the term "cyberdeck" comes from a cyberpunk book written in 1984
 called Neuromancer, by William Gibson. Once I started down the internet rabbit
 hole of cyberdecks, I realized I needed to build one. Checkout
 [r/cyberdeck](https://www.reddit.com/r/cyberDeck/) on Reddit to see some fun
