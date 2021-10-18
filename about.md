@@ -20,5 +20,5 @@ This blog is about my favorite smells, which include:
 - The smell of compressed air: Favorite place to SCUBA is Bonaire! logged 3 trips there so far
 - The smell of the forest: I like backpacking/hiking in the [Deam
   Wilderness](https://www.fs.usda.gov/recarea/hoosier/recarea/?recid=41554)
-- The smell of bacon on a campfire: I have a Grand Design Imagine 2800BH that I tow with
-  a Chevy Tahoe with the HD tow package
+- The smell of bacon on a campfire: Current rig is a Grand Design Imagine 2800BH towed with
+  a 2013 Chevy Tahoe with the HD tow package

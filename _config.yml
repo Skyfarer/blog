@@ -3,7 +3,7 @@ description: "Where I blog my (mis)adventures."
 author:
   name: "Jeremy Walworth"
   email: "walworth@gmail.com"
-  url: "https://skyfarer.cloud"
+url: "https://skyfarer.cloud"
 
 baseurl: /
 
