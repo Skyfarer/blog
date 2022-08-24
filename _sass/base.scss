@@ -61,6 +61,8 @@ header {
 }
 
 .header-link {
+  color: $conifer;//$header;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   display: inline;
 }
 
