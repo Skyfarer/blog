@@ -3,7 +3,6 @@ layout: page
 title: contact
 ---
 - walworth at gmail dot com
-- [jeremyfsu@twitter](https://twitter.com/jeremyfsu)
 - [jeremywalworth@instagram](https://www.instagram.com/jeremywalworth/)
 - [N4JSW@QRZ](https://www.qrz.com/lookup/n4jsw)
 - [jeremyfsu@github](https://github.com/jeremyfsu)
