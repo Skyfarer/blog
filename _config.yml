@@ -1,5 +1,5 @@
 title: Skyfarer Cloud
-description: "Where I blog my (mis)adventures."
+description: "Photography and other nonsense"
 author:
   name: "Jeremy Walworth"
   email: "walworth@gmail.com"
@@ -29,5 +29,5 @@ plugins:
 
 # Custom variables
 owner : "Jeremy Walworth"
-year : "2021"
-google_analytics: "UA-26942824-1"
+year : "2024"
+#google_analytics: "UA-26942824-1"
