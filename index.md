@@ -6,11 +6,11 @@ title: Home
 Louisville Graffiti (Note, the rights to these images belong to the artists,
 not me)
 
-[![Graffiti in Louisville](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/louisvilletags/4D8A3397.JPG 'Graffiti in Louisville')](https://d27zxlt9f488cv.cloudfront.net//louisvilletags.html)
+[![Graffiti in Louisville](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/louisvilletags/4D8A3397.JPG 'Graffiti in Louisville')](https://d27zxlt9f488cv.cloudfront.net/louisvilletags.html)
 
 My furry friends
 
-[![Furbabies](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/furbabies/4D8A4293.JPG 'Furbabies')](https://d27zxlt9f488cv.cloudfront.net//furbabies.html)
+[![Furbabies](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/furbabies/4D8A4293.JPG 'Furbabies')](https://d27zxlt9f488cv.cloudfront.net/furbabies.html)
 
 Headshots
 
