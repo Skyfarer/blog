@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
-Louisville Graffiti (Note, the rights to these images belong to the artists,
-not me)
+Louisville Graffiti (Original artwork may be subject to separate copyright by
+its creator.)
 
 [![Graffiti in Louisville](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/louisvilletags/4D8A3397.JPG 'Graffiti in Louisville')](https://d27zxlt9f488cv.cloudfront.net/louisvilletags.html)
 
