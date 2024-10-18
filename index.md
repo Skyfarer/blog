@@ -3,16 +3,19 @@ layout: page
 title: Home
 ---
 
-Louisville Graffiti (Note, the rights to these images belong to the artists,
-not me)
+Hey I'm Jeremy! I'm a DevOps/Cloud engineer by trade, and dabble in several
+nerdy hobbies:
 
-[![Graffiti in Louisville](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/louisvilletags/4D8A3397.JPG 'Graffiti in Louisville')](https://d27zxlt9f488cv.cloudfront.net/louisvilletags.html)
+- Aviation (Instrument Rated Private Pilot and own a Mooney M20M)
+- [Photography](/photography)
+- Tinkering with arduino variants like the ESP8266
+- Amateur Radio
+- Brewing beer
+- Backpacking in the back country
 
-My furry friends
+Several of these mix well too, so I'm often engaging in multiple hobbies at
+once.
 
-[![Furbabies](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/furbabies/4D8A4293.JPG 'Furbabies')](https://d27zxlt9f488cv.cloudfront.net/furbabies.html)
+This site is where I share my [photography](/photography) and rarely blog about these things.
 
-Headshots
-
-
-[![Headshots](https://d27zxlt9f488cv.cloudfront.net/media/thumbs/headshots/4D8A4449.JPG 'Headshots')](https://d27zxlt9f488cv.cloudfront.net/headshots.html)
+![image](/assets/images/IMG_3677.jpg){: width="250px"}
