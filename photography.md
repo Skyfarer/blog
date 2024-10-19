@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Photography
 ---
 
 Louisville Graffiti (Original artwork may be subject to separate copyright by
