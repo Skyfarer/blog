@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-docker run --rm -it -v $PWD:/srv/jekyll -p4000:4000 jekyll/jekyll $@
+docker run --rm -it -v $PWD:/srv/jekyll -p4000:4000 jekyll $@

@@ -8,7 +8,7 @@ nerdy hobbies:
 
 - Aviation (Instrument Rated Private Pilot and own a Mooney M20M)
 - [Photography](https://photography.skyfarer.cloud)
-- Tinkering with arduino variants like the ESP8266
+- Tinkering with microcontrollers like the ESP32
 - Amateur Radio
 - Brewing beer
 - Backpacking in the back country
