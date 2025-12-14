@@ -3,7 +3,7 @@ layout: post
 title: cyberdeck-mark-iii
 date: 2025-12-13 20:20 -0500
 ---
-Here's the first pass, V0.01 of a cyberdeck for portable hacking. This one is powered
+Here's the first pass, V0.1 of a cyberdeck for portable hacking. This one is powered
 by a Raspberry Pi5 and has a wide format screen. The 3D printed parts are
 a bit flimsy so I'm doing some redesign for V0.2.
 
