@@ -3,19 +3,22 @@ layout: page
 title: Home
 ---
 
-Hey I'm Jeremy! I'm a DevOps/Cloud engineer by trade, and dabble in several
-nerdy hobbies:
+# Cloud & Backend Consultant
 
-- Aviation (Instrument Rated Private Pilot and own a Mooney M20M)
-- [Photography](https://photography.skyfarer.cloud)
-- Tinkering with microcontrollers like the ESP32
-- Amateur Radio
-- Brewing beer
-- Backpacking in the back country
+I'm Jeremy, a cloud and backend consultant helping teams build reliable, scalable infrastructure.
 
-Several of these mix well too, so I'm often engaging in multiple hobbies at
-once.
+## What I Do
 
-This site is where I share my [photography](https://photography.skyfarer.cloud) and rarely blog about these things.
+**Cloud Architecture** — Design and implementation on AWS and IBM Cloud. Migrations, cost optimization, Kubernetes and Docker.
 
-![image](/assets/images/IMG_3677.jpg){: width="250px"}
+**Backend Development** — APIs, microservices, system design, and performance optimization. Linux expert and proficient in Ruby, Python, Go, C and Javascript/NodeJS.
+
+I work with startups and established teams alike, whether you need hands-on implementation or strategic guidance.
+
+## Get In Touch
+
+Looking for help with your infrastructure or backend systems? Reach out at [jeremy.walworth@proton.me](mailto:jeremy.walworth@proton.me)
+
+---
+
+When I'm not working, you'll find me flying my Mooney, hiking, or tinkering with microcontrollers. I also share my [photography](https://photography.skyfarer.cloud) and occasionally write about projects here on my [blog](/blog).
