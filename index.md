@@ -15,6 +15,12 @@ I'm Jeremy, a cloud and backend consultant helping teams build reliable, scalabl
 
 I work with startups and established teams alike, whether you need hands-on implementation or strategic guidance.
 
+## Where I've Been
+
+**Backend Developer/Dev Ops Engineer** - The last 17 years I've been with Verizon and HCLTech building and maitaining a cloud platform that supports the PMO. I've supported projects for American Express, Bank of America, Target, Starbucks, Johnson Controls, and Walgreens. 
+
+Over the years I've helped with multiple startups with successful exits.
+
 ## Get In Touch
 
 Looking for help with your infrastructure or backend systems? Reach out at [jeremy.walworth@proton.me](mailto:jeremy.walworth@proton.me)
