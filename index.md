@@ -17,9 +17,9 @@ I work with startups and established teams alike, whether you need hands-on impl
 
 ## Where I've Been
 
-**Backend Developer/Dev Ops Engineer** - The last 17 years I've been with Verizon and HCLTech building and maitaining a cloud platform that supports the PMO. I've supported projects for American Express, Bank of America, Target, Starbucks, Johnson Controls, and Walgreens. 
+**Backend Developer/Dev Ops Engineer** - For the last 17 years I've been with Verizon and HCLTech building and maintaining a cloud platform that supports the PMO. I've supported projects for American Express, Bank of America, Target, Starbucks, Johnson Controls, and Walgreens. 
 
-Over the years I've helped with multiple startups with successful exits.
+Over the years I've helped multiple startups with successful exits.
 
 ## Get In Touch
 
