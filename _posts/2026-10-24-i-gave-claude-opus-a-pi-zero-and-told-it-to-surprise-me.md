@@ -20,6 +20,8 @@ Once a minute, Blip scans for BLE devices nearby — phones, earbuds, watches, s
 
 None of that was in my prompt. I said "surprise me" and got a pet.
 
+![Blip running on the Pi Zero, day 34, "best day ever," 32 devices nearby, 23290 lifetime snacks](/assets/images/IMG_3765.jpeg)
+
 ## The real surprise wasn't the code
 
 I could have asked Opus to write a BLE scanner that drives an e-paper display — that's a pretty mechanical task, plenty of people have done it. The part that actually surprised me is everything upstream of the code: it decided a "digital pet that eats Bluetooth signals" was the interesting thing to build, invented the whole mood/hunger mechanic from scratch, wrote its own flavor text ("nom nom nom," "signal buffet!," "tummy rumbling"), designed the UI layout, drew the sprite, and named it. I gave it a creative writing prompt disguised as a hardware task, and it ran the whole creative process end to end without me in the loop at all.
