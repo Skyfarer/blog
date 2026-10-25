@@ -37,6 +37,10 @@
   {% if site.google_analytics %}
     {% include analytics.html %}
   {% endif %}
+
+  {% if site.umami_website_id %}
+    {% include umami.html %}
+  {% endif %}
 </body>
 
 </html>

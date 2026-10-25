@@ -31,3 +31,7 @@ plugins:
 owner : "Jeremy Walworth"
 year : "2025"
 #google_analytics: "UA-26942824-1"
+
+# Self-hosted Umami analytics (privacy-friendly, no Google)
+umami_src: "https://analytics.skyfarer.cloud/script.js"
+umami_website_id: "b93817b7-825a-473c-aeb9-85f194bbab75"
