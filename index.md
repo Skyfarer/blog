@@ -3,28 +3,28 @@ layout: page
 title: Home
 ---
 
-# Cloud & Backend Consultant
+# Cloud, DevOps & AI-infrastructure engineer
 
-I'm Jeremy, a cloud and backend consultant helping teams build reliable, scalable infrastructure.
+I'm Jeremy. I spend my career on the operations side of software: building infrastructure that's reliable, automated, and increasingly aimed at running AI privately instead of sending data to a third party.
 
 ## What I Do
 
-**Cloud Architecture** — Design and implementation on AWS and IBM Cloud. Migrations, cost optimization, Kubernetes and Docker.
+**Cloud & DevOps** — Architecture, migrations, and deployment automation on AWS and IBM Cloud: Docker, Ansible, CI/CD, infrastructure as code.
 
-**Backend Development** — APIs, microservices, system design, and performance optimization. Linux expert and proficient in Ruby, Python, Go, C and Javascript/NodeJS.
+**AI Infrastructure** — Self-hosted AI, local LLM deployment (Ollama, llama.cpp, vLLM), workflow automation, and sizing the GPU/hardware underneath it.
 
-I work with startups and established teams alike, whether you need hands-on implementation or strategic guidance.
+**Solution Architecture** — Scoping a problem, designing the system, and presenting it to the people who have to sign off on it and live with it.
 
 ## Where I've Been
 
-**Backend Developer/Dev Ops Engineer** - For the last 17 years I've been with Verizon and HCLTech building and maintaining a cloud platform that supports the PMO. I've supported projects for American Express, Bank of America, Target, Starbucks, Johnson Controls, and Walgreens. 
+I've spent 25+ years on the operations side of software, the last 17 running a Linux virtual data center for a Fortune 500 PMO, rebuilt from scratch three times across three cloud platforms for enterprise customers in retail, finance, automotive, and the public sector, with zero business-visible downtime on any of the cutovers. Before that, I co-founded and ran technology for Rocket Health, a diabetes healthcare startup, through its acquisition.
 
-Over the years I've helped multiple startups with successful exits.
+What I'm experimenting with now: practical, numbers-backed experiments in private AI, sizing local models on small hardware, wiring LLMs into home and ops automation, AI-assisted infrastructure management.
 
-## Get In Touch
+## Right Now
 
-Looking for help with your infrastructure or backend systems? Reach out at [jeremy.walworth@proton.me](mailto:jeremy.walworth@proton.me)
+I'm looking for my next role: cloud/DevOps engineering, solutions architecture, or sales engineering, ideally where that overlaps with self-hosted AI infrastructure. Find me on [LinkedIn](https://www.linkedin.com/in/jeremy-walworth-0b23374) or reach out at [jeremy.walworth@proton.me](mailto:jeremy.walworth@proton.me)
 
 ---
 
-When I'm not working, you'll find me flying my Mooney, hiking, or tinkering with microcontrollers. I also share my [photography](https://photography.skyfarer.cloud) and occasionally write about projects here on my [blog](/blog).
+When I'm not working, you'll find me flying my single engine 4-seat airplane or tinkering with microcontrollers. I also share my [photography](https://photography.skyfarer.cloud) and occasionally write about projects here on my [blog](/blog).
