@@ -26,18 +26,12 @@ None of that was in my prompt. I said "surprise me" and got a pet.
 
 I could have asked Opus to write a BLE scanner that drives an e-paper display — that's a pretty mechanical task, plenty of people have done it. The part that actually surprised me is everything upstream of the code: it decided a "digital pet that eats Bluetooth signals" was the interesting thing to build, invented the whole mood/hunger mechanic from scratch, wrote its own flavor text ("nom nom nom," "signal buffet!," "tummy rumbling"), designed the UI layout, drew the sprite, and named it. I gave it a creative writing prompt disguised as a hardware task, and it ran the whole creative process end to end without me in the loop at all.
 
-It also made a product decision I didn't ask for: privacy. BLE addresses get hashed in memory with a random salt that changes every run, device names are never shown or stored, and the hashes get cleared daily. Nobody told it to care about that. It just decided a thing that lives in your backpack and logs nearby devices shouldn't also be a surveillance log of everyone you walk past, and built it that way from the start.
+It also made a product decision I didn't ask for: privacy. BLE addresses get hashed in memory with a random salt that changes every run, device names are never shown or stored, and the hashes get cleared daily. Nobody told it to care about that. It just decided that something living in your backpack and logging nearby devices shouldn't also be a surveillance log of everyone you walk past, and built it that way from the start.
 
-And it didn't stop at the first working version. The git history shows it coming back to tune its own earlier decisions — adjusting how fast the tummy drains, changing how much each new device fills it, adding 24-hour persistence so "eaten" devices survive a restart, handling device names that weren't valid UTF-8. That's not one-shot code generation, that's something closer to a person iterating on their own project because they weren't quite happy with the first pass.
+It even wrote the shutdown behavior unprompted: when the systemd service stops, Blip draws itself asleep with "powered off. see you soon!" before the Pi loses power. E-paper holds its last image with no power applied, so an unplugged Pi still has a sleeping face on it instead of a blank screen. That's the kind of small finishing touch I'd expect from someone who was fond of what they built, not just completing a ticket.
 
-It even wrote the shutdown behavior unprompted: when the systemd service stops, Blip draws itself asleep with "powered off. see you soon!" before the Pi loses power. E-paper holds its last image with no power applied, so an unplugged badge still has a sleeping face on it instead of a blank screen. That's the kind of small finishing touch I'd expect from someone who was fond of what they built, not just completing a ticket.
+## What's next?
 
-## It still had to do real engineering
+I'm tempted now to do the same with Grok, then GPT. What will they come up with if I give them a blank Raspberry Pi to create with?
+Here's a link to the project on my Github: [Blip](https://github.com/Skyfarer/blip) 
 
-This wasn't just vibes and personality, either. It ran into a genuinely nasty bug: `btmgmt`, the Bluetooth scanning tool it used, exits immediately the moment its stdin hits EOF. Under systemd, stdin is `/dev/null` by default, which is EOF from the first instant — so the scan silently returned zero devices every single time, with no error. It tracked that down and fixed it by holding a stdin pipe open for the duration of the scan. That's a real "why is this returning nothing with no error message" debugging session, the kind that eats an afternoon for a human.
-
-## Where Blip lives now
-
-It's back on the original Pi Zero, running as a systemd service, drawing a new mood every minute off whatever's nearby. The old ADS-B badge service is still on there too, disabled but intact, so I can switch the Pi back to its old job with two `systemctl` commands if I ever want to. For now it's a pet.
-
-I don't have a grand conclusion about what this means for AI-assisted builds generally, other than: I'm going to keep handing Opus hardware with no spec, because "make something interesting, surprise me" turned out to be a much better prompt than anything I would have written myself.
